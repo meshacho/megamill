@@ -1,0 +1,39 @@
+body{
+	color: black;
+	font-family: 'Ultra', serif;
+}
+#ballline{
+	
+
+}
+.num{
+	font-size: 50px;
+	font-family: 'Ultra', serif;
+	text-shadow: 2px 2px 3px black;
+	float: left;
+	height: 100px;
+	width: 100px;
+	background-color: grey;
+	color: red;
+	display: flex;
+	border-radius: 50%;
+	justify-content: center;
+	margin-right: 10px;
+	border: 2px solid red;
+	padding-top: 15px;
+}
+.nummega{
+	text-shadow: 2px 2px 3px black;
+	font-size: 50px;
+	font-family: 'Ultra', serif;
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	color: red;
+	display: flex;
+	border-radius: 50%;
+	justify-content: center;
+	margin-right: 10px;
+	border: 2px solid red;
+		padding-top: 15px;
+}
