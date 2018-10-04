@@ -1,0 +1,22 @@
+{
+  "name": "mega-millions-generator",
+  "version": "1.0.0",
+  "description": "mega millions generatror WIN",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meshacho/megamill.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "Meshach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meshacho/megamill/issues"
+  },
+  "homepage": "https://github.com/meshacho/megamill#readme"
+}
